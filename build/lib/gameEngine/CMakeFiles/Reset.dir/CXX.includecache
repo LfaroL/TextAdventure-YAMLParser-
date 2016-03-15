@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/gameEngineHeaders/Reset.h
+string
+-
+
+/home/lfarol28/Desktop/TextAdventure/lib/gameEngine/Reset.cpp
+gameEngineHeaders/Reset.h
+/home/lfarol28/Desktop/TextAdventure/lib/gameEngine/gameEngineHeaders/Reset.h
+

@@ -1,0 +1,11 @@
+AREA:
+  name: asdf sadlkfsadf
+NPCS:
+  - description:
+      - askldf
+    id: 3000
+    keywords:
+      - asdf
+    longdesc:
+      - asdf
+    shortdesc: asdf

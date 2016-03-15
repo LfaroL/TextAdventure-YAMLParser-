@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libObserverList.a  CMakeFiles/ObserverList.dir/ObserverList.cpp.o
+/usr/bin/ranlib ../libObserverList.a

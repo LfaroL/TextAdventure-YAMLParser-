@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libroomDataInterface.a  CMakeFiles/roomDataInterface.dir/roomDataInterface.cpp.o
+/usr/bin/ranlib ../libroomDataInterface.a

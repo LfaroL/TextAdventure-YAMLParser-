@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/gameEngineHeaders/NPC.h
+string
+-
+vector
+-
+iostream
+-
+map
+-
+gameEngineHeaders/Widget.h
+../include/gameEngineHeaders/gameEngineHeaders/Widget.h
+gameEngineHeaders/Object.h
+../include/gameEngineHeaders/gameEngineHeaders/Object.h
+
+../include/gameEngineHeaders/Object.h
+string
+-
+vector
+-
+iostream
+-
+gameEngineHeaders/Widget.h
+../include/gameEngineHeaders/gameEngineHeaders/Widget.h
+
+../include/gameEngineHeaders/Widget.h
+string
+-
+vector
+-
+
+/home/lfarol28/Desktop/TextAdventure/lib/gameEngine/NPC.cpp
+gameEngineHeaders/NPC.h
+/home/lfarol28/Desktop/TextAdventure/lib/gameEngine/gameEngineHeaders/NPC.h
+

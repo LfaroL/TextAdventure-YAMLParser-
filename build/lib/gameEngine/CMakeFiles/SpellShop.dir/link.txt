@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libSpellShop.a  CMakeFiles/SpellShop.dir/SpellShop.cpp.o
+/usr/bin/ranlib ../libSpellShop.a

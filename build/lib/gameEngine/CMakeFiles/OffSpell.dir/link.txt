@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libOffSpell.a  CMakeFiles/OffSpell.dir/OffSpell.cpp.o
+/usr/bin/ranlib ../libOffSpell.a

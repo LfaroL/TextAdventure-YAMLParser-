@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libObject.a  CMakeFiles/Object.dir/Object.cpp.o
+/usr/bin/ranlib ../libObject.a

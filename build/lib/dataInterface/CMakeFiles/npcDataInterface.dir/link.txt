@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libnpcDataInterface.a  CMakeFiles/npcDataInterface.dir/npcDataInterface.cpp.o
+/usr/bin/ranlib ../libnpcDataInterface.a

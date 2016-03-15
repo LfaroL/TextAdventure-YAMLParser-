@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libReset.a  CMakeFiles/Reset.dir/Reset.cpp.o
+/usr/bin/ranlib ../libReset.a

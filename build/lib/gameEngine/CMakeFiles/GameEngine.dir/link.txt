@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libGameEngine.a  CMakeFiles/GameEngine.dir/GameEngine.cpp.o
+/usr/bin/ranlib ../libGameEngine.a

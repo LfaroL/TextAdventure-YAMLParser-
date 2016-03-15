@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libTCPClient.a  CMakeFiles/TCPClient.dir/TCPClient.cpp.o
+/usr/bin/ranlib ../libTCPClient.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libspellDataInterface.a  CMakeFiles/spellDataInterface.dir/spellDataInterface.cpp.o
+/usr/bin/ranlib ../libspellDataInterface.a

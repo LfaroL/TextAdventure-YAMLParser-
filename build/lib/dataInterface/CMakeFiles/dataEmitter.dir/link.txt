@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libdataEmitter.a  CMakeFiles/dataEmitter.dir/dataEmitter.cpp.o
+/usr/bin/ranlib ../libdataEmitter.a

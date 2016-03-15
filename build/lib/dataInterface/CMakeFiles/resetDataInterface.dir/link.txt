@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libresetDataInterface.a  CMakeFiles/resetDataInterface.dir/resetDataInterface.cpp.o
+/usr/bin/ranlib ../libresetDataInterface.a

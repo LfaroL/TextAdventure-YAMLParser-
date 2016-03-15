@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/userAccountHeaders/Login.h
+iostream
+-
+fstream
+-
+string
+-
+unistd.h
+-
+
+/home/lfarol28/Desktop/TextAdventure/lib/userAccount/login.cpp
+iostream
+-
+fstream
+-
+string
+-
+userAccountHeaders/Login.h
+/home/lfarol28/Desktop/TextAdventure/lib/userAccount/userAccountHeaders/Login.h
+

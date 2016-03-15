@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/networkingHeaders/TCPClient.h
+netinet/in.h
+-
+TCPDataflow.h
+../include/networkingHeaders/TCPDataflow.h
+
+../include/networkingHeaders/TCPDataflow.h
+sys/types.h
+-
+unistd.h
+-
+sys/socket.h
+-
+iostream
+-
+string
+-
+
+/home/lfarol28/Desktop/TextAdventure/lib/networkingInterface/TCPClient.cpp
+arpa/inet.h
+-
+netdb.h
+-
+stdio.h
+-
+string.h
+-
+networkingHeaders/TCPClient.h
+/home/lfarol28/Desktop/TextAdventure/lib/networkingInterface/networkingHeaders/TCPClient.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libTCPDataflow.a  CMakeFiles/TCPDataflow.dir/TCPDataflow.cpp.o
+/usr/bin/ranlib ../libTCPDataflow.a

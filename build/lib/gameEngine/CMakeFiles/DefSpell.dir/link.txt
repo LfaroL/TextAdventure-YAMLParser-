@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libDefSpell.a  CMakeFiles/DefSpell.dir/DefSpell.cpp.o
+/usr/bin/ranlib ../libDefSpell.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../libExtended.a  CMakeFiles/Extended.dir/Extended.cpp.o
+/usr/bin/ranlib ../libExtended.a

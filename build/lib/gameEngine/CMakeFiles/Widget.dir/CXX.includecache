@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/gameEngineHeaders/Widget.h
+string
+-
+vector
+-
+
+/home/lfarol28/Desktop/TextAdventure/lib/gameEngine/Widget.cpp
+gameEngineHeaders/Widget.h
+/home/lfarol28/Desktop/TextAdventure/lib/gameEngine/gameEngineHeaders/Widget.h
+

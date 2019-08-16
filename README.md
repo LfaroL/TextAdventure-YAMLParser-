@@ -1,4 +1,58 @@
 # TextAdventure-YAMLParser-
+Classes<br />
+Server:
+<ul>
+<li>State of world</li>
+<li>Data of each character</li>
+<li>Updates world data and character data</li>
+</ul>
+Time:
+<ul>
+<li>Game time</li>
+<li>timeFunction()</li>
+<li>Informs server to update world</li>
+</ul>
+World:
+<ul>
+<li>Contains LocationTiles and Characters that represent world</li>
+<li>LocationTiles[]</li>
+<li>Characters[]</li>
+</ul>
+Interface:
+<ul>
+<li>Displays output to player (HP, Items, Location)</li>
+</ul>
+LocationTile:
+<ul>
+<li>Represents a location in the game</li>
+<li>List of all widgets currently at location tile</li>
+<li>List of all locationTiles reachable from it</li>
+<li>Message displayed to player when at location tile</li>
+</ul>
+CharacterProfile:
+<ul>
+<li>Account info for each Character</li>
+<li>Username</li>
+<li>Password</li>
+<li>CurrentLocation</li>
+</ul>
+Widget:
+<ul>
+<li>Represents object in-game</li>
+<li>Name</li>
+<li>Duration</li>
+<li>Usage</li>
+<li>Location</li>
+</ul>
+Character:
+<ul>
+<li>Represents the User in-game</li>
+<li>Health</li>
+<li>Level</li>
+<li>Stats</li>
+<li>Inventory[]</li>
+</ul>
+<br /><br />
 Yaml Parser & Emitter Class
 
 

@@ -1,4 +1,26 @@
 # TextAdventure-YAMLParser-
+
+Agile Development<br />
+<ul>
+  <li>Early and continuous delivery of software</li>
+  <li>Welcome changing requirements</li>
+  <li>Deliver working software frequently</li>
+  <li>Face-to-face conversation</li>
+  <li>Working software as measure of progress</li>
+  <li>Simplicity - maximize work not needed to be done</li>
+  <li>Self-organizing teams</li>
+  <li>Team reflection at regular intervals</li>
+  </ul>
+  
+  Scrum<br />
+  <ul>
+  <li>Sprint: team produces a shippable product</li>
+  <li>Sprint Planning: determine which items from backlog to work on</li>
+  <li>Daily Scrum: short discussion where team says what they've done, what they're doing and what's blocking them</li>
+  <li>Sprint Review: review results of sprint, get feedback on product</li>
+  <li>Sprint Retrospective: reflect how things went and identify adjusments</li>
+  </ul>
+  
 Classes<br />
 Server:
 <ul>

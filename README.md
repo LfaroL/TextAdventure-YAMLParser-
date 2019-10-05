@@ -1,6 +1,6 @@
 # TextAdventure-YAMLParser-
 
-Agile Development<br />
+Agile Development
 <ul>
   <li>Early and continuous delivery of software</li>
   <li>Welcome changing requirements</li>
@@ -12,7 +12,7 @@ Agile Development<br />
   <li>Team reflection at regular intervals</li>
   </ul>
   
-  Scrum<br />
+  Scrum
   <ul>
   <li>Sprint: team produces a shippable product</li>
   <li>Sprint Planning: determine which items from backlog to work on</li>
